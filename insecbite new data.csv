@@ -1,0 +1,37 @@
+id,syndrome,example_symptoms,severity_level,recommended_action,time_numeric
+0,spiders,small red bump,moderate-severe,"home: clean area with soap & water, cold compress",1
+1,spiders,"swelling, mild pain",moderate-severe,"home: elevate limb, cold compress, mild pain relief",2
+2,spiders,"blister forming, necrotic skin (rare)",moderate-severe,"home: antiseptic ointment, monitor symptoms",3
+3,spiders,blister/necrotic lesion fully developed,moderate-severe,"Consult to Doctor Dr. Smith (9876500001), Dr. Lee (9876500002), Dr. Patel (9876500003)",4
+4,ticks,small red spot,moderate,"home: clean area with soap, apply antiseptic cream",1
+5,ticks,"redness spreading, mild fever",moderate,"home: cool compress, monitor temperature",2
+6,ticks,"bull’s-eye rash, fatigue, mild fever",moderate,"home: antihistamines if itching, monitor symptoms",3
+7,ticks,"bull’s-eye rash pronounced, fever, fatigue",moderate,"Consult to Doctor Dr. Kumar (9876510061), Dr. Rao (9876510072), Dr. Mehta (9876510083)",4
+8,no_bites,no reaction,none,home: no action needed,1
+9,no_bites,irritation absent,none,home: continue monitoring,2
+10,no_bites,no visible effects,none,home: reassurance only,3
+11,no_bites,still no reaction,none,Normal Care,4
+12,fleas,tiny red dots,mild,"home: clean area, cold compress",1
+13,fleas,itchy red clusters,mild,"home: antihistamines, cold compress",2
+14,fleas,"clusters more pronounced, swelling",mild,"home: topical anti-itch cream, monitor",3
+15,fleas,"itching persists, possible secondary infection",mild,"Consult to Doctor Dr. Arora (9876530001), Dr. Reddy (9876530002), Dr. Shah (9876530003)",4
+16,mosquitos,small red bump,mild,home: ice pack or cold compress,1
+17,mosquitos,itchy red bump,mild,"home: apply hydrocortisone cream, avoid scratching",2
+18,mosquitos,"larger itchy bump, possible clusters",mild,"home: antihistamine, monitor for swelling",3
+19,mosquitos,"red, itchy, slightly swollen",mild,"Consult to Doctor Dr. Nair (9876540031), Dr. Desai (9876540052), Dr. Roy (9876540073)",4
+20,chiggers,"tiny red dot, slight itch",mild,home: wash area with soap & water,1
+21,chiggers,red welts forming,mild,"home: apply calamine lotion, cold compress",2
+22,chiggers,"intense itching, red welts",mild,"home: topical corticosteroid, avoid scratching",3
+23,chiggers,"persistent itching, possible secondary swelling",mild,"Consult to Doctor Dr. Bhatia (9876550091), Dr. Varma (9876550052), Dr. Veera (9876550013)",4
+24,bed_bugs,small itchy bumps,mild-moderate,"home: wash bedding, clean area",1
+25,bed_bugs,linear itchy welts forming,mild-moderate,"home: apply antihistamines, cold compress",2
+26,bed_bugs,"multiple welts, intense itching",mild-moderate,"home: topical anti-itch cream, monitor",3
+27,bed_bugs,"persistent itchy welts, secondary infection risk",mild-moderate,"Consult to Doctor Dr. Iyer (9876560071), Dr. Kapoor (9876560062), Dr. Dutta (9876560073)",4
+28,ants,"small red sting, mild pain",mild,"home: ice pack, clean area",1
+29,ants,"swelling, redness",mild,"home: antihistamines, cold compress",2
+30,ants,"swelling more pronounced, pain",mild,"home: monitor, elevate affected area",3
+31,ants,"large swollen area, pain persists",mild,"Consult to Doctor Dr. Menon (9876570061), Dr. Bhatt (9876570062), Dr. Rao (9876570063)",4
+32,human_bite,"small puncture, mild pain",moderate-severe,"home: wash wound with soap & water, apply antiseptic",1
+33,human_bite,"swelling, redness around puncture",moderate-severe,"home: antiseptic cream, monitor for infection",2
+34,human_bite,"moderate swelling, bruising, pain",moderate-severe,"home: clean wound, apply antiseptic, elevate limb",3
+35,human_bite,"severe swelling, redness, infection possible",moderate-severe,"Consult to Doctor Dr. Nambiar (9876580051), Dr. Singh (9876580052), Dr. Verma (9876580053)",4
